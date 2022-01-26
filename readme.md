@@ -1,6 +1,6 @@
 **LiME (Logic-in-Memory Emulator) with RISCV**
 
-In this project we implement The Logic in Memory Emulator LiME (https://github.com/LLNL/lime#lime) on the basis of A. Jain, S. Lloyd, M. Gokhale, "Microscope on Memory: MPSoC-enabled Computer Memory System Assessments," Proceedings of FCCM, IEEE, 173-180, May 2018. doi:10.1109/FCCM.2018.00035 using an EH1 RISC-V SweRV CoreTM 1.9 from Western Digital  (https://github.com/chipsalliance/Cores-SweRV) for the GenPRO RISC=V consortium (http://genpro.org.il/) on a Xilinx ZC606 (https://www.xilinx.com/products/boards-and-kits/ek-z7-zc706-g.html) FPGA platform.
+In this project we implement The Logic in Memory Emulator LiME (https://github.com/LLNL/lime#lime) on the basis of A. Jain, S. Lloyd, M. Gokhale, "Microscope on Memory: MPSoC-enabled Computer Memory System Assessments," Proceedings of FCCM, IEEE, 173-180, May 2018. doi:10.1109/FCCM.2018.00035 using an EH1 RISC-V SweRV CoreTM 1.9 from Western Digital  (https://github.com/chipsalliance/Cores-SweRV) for the GenPRO RISC-V consortium (http://genpro.org.il/) on a Xilinx ZC606 (https://www.xilinx.com/products/boards-and-kits/ek-z7-zc706-g.html) FPGA platform.
 
 **Files structure:**  
 ![](media/02ae2788bd70e28ea28eb805f546c6fb.png)
